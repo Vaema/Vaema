@@ -1,7 +1,7 @@
 ### Greetings! I'm Vaema, a video game designer and modder. 👋
 
 ### Here is a simple breakdown about me:
-- 💻 Username: Vaema or Yaku
+- 💻 Username: Vaema or Astra
 - 👱‍♂️ Name: Rylan Jordan
 - 😄 Pronouns: He/him/his
 - 🔭 I am currently working on: various Terraria mods.
