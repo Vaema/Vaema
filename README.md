@@ -1,7 +1,7 @@
 ### Greetings! I am Astra, a video game designer and modder. 👋
 
 ### Here is a simple breakdown about me:
-- 💻 Username: Astra
+- 💻 Username: Astra (formerly "Vaema")
 - 👱‍♂️ Name: Rylan Jordan
 - 😄 Pronouns: He/him/his
 - 🔭 I am currently working on: various Terraria mods.
