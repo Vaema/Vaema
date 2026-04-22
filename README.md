@@ -10,10 +10,6 @@
 - 📫 How to reach me: I can be contacted through multiple social media platforms.
 - ✨ Fun fact: I love Terraria, as it has been my favorite game since 2012. 🌳
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vaema.Vaema&left_color=rebeccapurple&right_color=mediumpurple"  />
-</div>
-
 ###
 
 <div align="left">
