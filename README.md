@@ -4,7 +4,6 @@
 
 ### Here is a simple breakdown list about me:
 - 💻 Username: Astra (or Astra Gravastar)
-- 📛 Name: Rylan Jordan
 - ♂️ Pronouns: He/him/his
 - 🔭 I am currently working on: video game mods.
 - 📫 How to reach me: I can be contacted through multiple social media platforms.
